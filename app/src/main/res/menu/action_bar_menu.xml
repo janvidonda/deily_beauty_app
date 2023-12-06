@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/Skin_Test"
+        android:title="Skin Test" />
+
+    <item
+        android:id="@+id/Languages"
+        android:title="Languages" />
+    <item
+        android:id="@+id/Rate"
+        android:title="Rate" />
+    <item
+        android:id="@+id/Share"
+        android:title="Share" />
+
+</menu>

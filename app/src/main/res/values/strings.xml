@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">daily beauty app 2</string>
+    <string name="title_activity_eyes_fragment">EyesFragment</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="coconut_oil">
+        There is evidence that you can use coconut oil to help manage a dry,
+        itchy scalp and accompanying dandruff.
+
+        A 2021 study of 140 people in India—70 with dandruff and 70 without—found that topical applications of coconut oil to the scalp had antifungal benefits.
+        It also promoted the growth of beneficial bacteria and reduced scalp flaking.3
+
+        Other research shows that coconut oil may help repair the skin barrier,
+        which is the top layer of your skin.4 This would make it a good treatment for both dandruff and dry skin. </string>
+    <string name="papaya_mask">Want to get rid of pimples or acne scars? Then this papaya, honey, and lemon face mask is the right one for you. Papaya, honey, and lemon all contain antibacterial properties that will kill off acne-causing bacteria from the skin. Papaya also has a deep-cleansing action that will push out all the gunk from clogged pores.</string>
+    <string name="tomato_mask">Tomatoes contain large amounts of vitamins and minerals, such as vitamin A, C, and E as well as iron and potassium.[1] All of these nutrients help to nourish the skin. Because of these properties, you can use a tomato face mask to help with your skin, no matter your skin type.</string>
+    <string name="almond_mask">Take a bowl and mix both the ingredients in it. Mix it well till you get a thick paste-like consistency. Now, wash your face with lukewarm water and apply this mask on your face and neck. Keep this face mask for about 20 minutes. Rinse your face thoroughly with lukewarm water. You may apply this mask on your arms and legs too</string>
+</resources>
